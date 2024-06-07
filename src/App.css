@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+form {
+  background-color: blue;
+  margin-top: 40px;
+  display: inline-block;
+}
+
+form div {
+  margin: 20px;
+}
+
+form label {
+  display: inline-block;
+  width: 120px;
+}
+
+.bholuButton {
+  background-color: rgb(216, 14, 14);
+  text-shadow: 2px 5px 10px black;
+}
